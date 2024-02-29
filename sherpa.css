@@ -1,0 +1,30 @@
+.image > img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+#sherpa{
+    background-color: rgb(37, 150, 190);
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+#sherpa p{
+    color: #B5B8B9;
+}
+.service-block{
+    /* margin: 30px; */
+    padding: 15px;
+    border-radius: 15px;
+    height: 100%;
+}
+.image{
+    margin-top: -40px;
+    overflow: hidden;
+}
+.service-block h3{
+    margin-top: 30px;
+}
+
+p.text-center{
+    margin-bottom: 80px;
+}
